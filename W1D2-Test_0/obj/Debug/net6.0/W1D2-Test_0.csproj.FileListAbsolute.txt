@@ -1,0 +1,15 @@
+Z:\IGMProfile\Desktop\IGME105\W1D2-Test_0\bin\Debug\net6.0\W1D2-Test_0.exe
+Z:\IGMProfile\Desktop\IGME105\W1D2-Test_0\bin\Debug\net6.0\W1D2-Test_0.deps.json
+Z:\IGMProfile\Desktop\IGME105\W1D2-Test_0\bin\Debug\net6.0\W1D2-Test_0.runtimeconfig.json
+Z:\IGMProfile\Desktop\IGME105\W1D2-Test_0\bin\Debug\net6.0\W1D2-Test_0.dll
+Z:\IGMProfile\Desktop\IGME105\W1D2-Test_0\bin\Debug\net6.0\W1D2-Test_0.pdb
+Z:\IGMProfile\Desktop\IGME105\W1D2-Test_0\obj\Debug\net6.0\W1D2-Test_0.csproj.AssemblyReference.cache
+Z:\IGMProfile\Desktop\IGME105\W1D2-Test_0\obj\Debug\net6.0\W1D2-Test_0.GeneratedMSBuildEditorConfig.editorconfig
+Z:\IGMProfile\Desktop\IGME105\W1D2-Test_0\obj\Debug\net6.0\W1D2-Test_0.AssemblyInfoInputs.cache
+Z:\IGMProfile\Desktop\IGME105\W1D2-Test_0\obj\Debug\net6.0\W1D2-Test_0.AssemblyInfo.cs
+Z:\IGMProfile\Desktop\IGME105\W1D2-Test_0\obj\Debug\net6.0\W1D2-Test_0.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Desktop\IGME105\W1D2-Test_0\obj\Debug\net6.0\W1D2-Test_0.dll
+Z:\IGMProfile\Desktop\IGME105\W1D2-Test_0\obj\Debug\net6.0\refint\W1D2-Test_0.dll
+Z:\IGMProfile\Desktop\IGME105\W1D2-Test_0\obj\Debug\net6.0\W1D2-Test_0.pdb
+Z:\IGMProfile\Desktop\IGME105\W1D2-Test_0\obj\Debug\net6.0\W1D2-Test_0.genruntimeconfig.cache
+Z:\IGMProfile\Desktop\IGME105\W1D2-Test_0\obj\Debug\net6.0\ref\W1D2-Test_0.dll
