@@ -1,0 +1,15 @@
+Z:\IGMProfile\Desktop\IGME105\PE2_StatementsExpressions\bin\Debug\net6.0\PE2_StatementsExpressions.exe
+Z:\IGMProfile\Desktop\IGME105\PE2_StatementsExpressions\bin\Debug\net6.0\PE2_StatementsExpressions.deps.json
+Z:\IGMProfile\Desktop\IGME105\PE2_StatementsExpressions\bin\Debug\net6.0\PE2_StatementsExpressions.runtimeconfig.json
+Z:\IGMProfile\Desktop\IGME105\PE2_StatementsExpressions\bin\Debug\net6.0\PE2_StatementsExpressions.dll
+Z:\IGMProfile\Desktop\IGME105\PE2_StatementsExpressions\bin\Debug\net6.0\PE2_StatementsExpressions.pdb
+Z:\IGMProfile\Desktop\IGME105\PE2_StatementsExpressions\obj\Debug\net6.0\PE2_StatementsExpressions.csproj.AssemblyReference.cache
+Z:\IGMProfile\Desktop\IGME105\PE2_StatementsExpressions\obj\Debug\net6.0\PE2_StatementsExpressions.GeneratedMSBuildEditorConfig.editorconfig
+Z:\IGMProfile\Desktop\IGME105\PE2_StatementsExpressions\obj\Debug\net6.0\PE2_StatementsExpressions.AssemblyInfoInputs.cache
+Z:\IGMProfile\Desktop\IGME105\PE2_StatementsExpressions\obj\Debug\net6.0\PE2_StatementsExpressions.AssemblyInfo.cs
+Z:\IGMProfile\Desktop\IGME105\PE2_StatementsExpressions\obj\Debug\net6.0\PE2_StatementsExpressions.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Desktop\IGME105\PE2_StatementsExpressions\obj\Debug\net6.0\PE2_StatementsExpressions.dll
+Z:\IGMProfile\Desktop\IGME105\PE2_StatementsExpressions\obj\Debug\net6.0\refint\PE2_StatementsExpressions.dll
+Z:\IGMProfile\Desktop\IGME105\PE2_StatementsExpressions\obj\Debug\net6.0\PE2_StatementsExpressions.pdb
+Z:\IGMProfile\Desktop\IGME105\PE2_StatementsExpressions\obj\Debug\net6.0\PE2_StatementsExpressions.genruntimeconfig.cache
+Z:\IGMProfile\Desktop\IGME105\PE2_StatementsExpressions\obj\Debug\net6.0\ref\PE2_StatementsExpressions.dll

@@ -17,7 +17,9 @@ namespace W1D2_Test_0
             //prints my favorite holiday an game to the console
             Console.WriteLine("My birthday");
             Console.WriteLine("Kingdom 2 Crowns");
-            //prints 4 adjectives describing me onto the console by adding strings together
+            /*prints 4 adjectives describing me onto 
+             * the console by adding strings together
+             */
             Console.WriteLine("Creative. "+"Smart, "+"Blind, "+"lazy.");
 
         }
