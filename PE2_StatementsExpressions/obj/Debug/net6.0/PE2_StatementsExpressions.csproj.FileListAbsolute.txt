@@ -13,3 +13,17 @@ Z:\IGMProfile\Desktop\IGME105\PE2_StatementsExpressions\obj\Debug\net6.0\refint\
 Z:\IGMProfile\Desktop\IGME105\PE2_StatementsExpressions\obj\Debug\net6.0\PE2_StatementsExpressions.pdb
 Z:\IGMProfile\Desktop\IGME105\PE2_StatementsExpressions\obj\Debug\net6.0\PE2_StatementsExpressions.genruntimeconfig.cache
 Z:\IGMProfile\Desktop\IGME105\PE2_StatementsExpressions\obj\Debug\net6.0\ref\PE2_StatementsExpressions.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE2_StatementsExpressions\obj\Debug\net6.0\PE2_StatementsExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE2_StatementsExpressions\obj\Debug\net6.0\PE2_StatementsExpressions.AssemblyInfoInputs.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE2_StatementsExpressions\obj\Debug\net6.0\PE2_StatementsExpressions.AssemblyInfo.cs
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE2_StatementsExpressions\obj\Debug\net6.0\PE2_StatementsExpressions.csproj.CoreCompileInputs.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE2_StatementsExpressions\obj\Debug\net6.0\PE2_StatementsExpressions.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE2_StatementsExpressions\obj\Debug\net6.0\refint\PE2_StatementsExpressions.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE2_StatementsExpressions\obj\Debug\net6.0\PE2_StatementsExpressions.pdb
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE2_StatementsExpressions\bin\Debug\net6.0\PE2_StatementsExpressions.exe
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE2_StatementsExpressions\bin\Debug\net6.0\PE2_StatementsExpressions.deps.json
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE2_StatementsExpressions\bin\Debug\net6.0\PE2_StatementsExpressions.runtimeconfig.json
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE2_StatementsExpressions\bin\Debug\net6.0\PE2_StatementsExpressions.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE2_StatementsExpressions\bin\Debug\net6.0\PE2_StatementsExpressions.pdb
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE2_StatementsExpressions\obj\Debug\net6.0\PE2_StatementsExpressions.genruntimeconfig.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE2_StatementsExpressions\obj\Debug\net6.0\ref\PE2_StatementsExpressions.dll

@@ -8,27 +8,31 @@
     "net6.0": []
   },
   "packageFolders": {
-    "D:\\Profiles\\js2420\\.nuget\\packages\\": {}
+    "C:\\Users\\jokol\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\IGMProfile\\Desktop\\IGME105\\PE2_StatementsExpressions\\PE2_StatementsExpressions.csproj",
+      "projectUniqueName": "C:\\Users\\jokol\\OneDrive\\Desktop\\RIT\\IGME105\\PE2_StatementsExpressions\\PE2_StatementsExpressions.csproj",
       "projectName": "PE2_StatementsExpressions",
-      "projectPath": "Z:\\IGMProfile\\Desktop\\IGME105\\PE2_StatementsExpressions\\PE2_StatementsExpressions.csproj",
-      "packagesPath": "D:\\Profiles\\js2420\\.nuget\\packages\\",
-      "outputPath": "Z:\\IGMProfile\\Desktop\\IGME105\\PE2_StatementsExpressions\\obj\\",
+      "projectPath": "C:\\Users\\jokol\\OneDrive\\Desktop\\RIT\\IGME105\\PE2_StatementsExpressions\\PE2_StatementsExpressions.csproj",
+      "packagesPath": "C:\\Users\\jokol\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jokol\\OneDrive\\Desktop\\RIT\\IGME105\\PE2_StatementsExpressions\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "Z:\\IGMProfile\\AppData\\NuGet\\NuGet.Config",
+        "C:\\Users\\jokol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
       },
       "frameworks": {
         "net6.0": {
@@ -61,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
