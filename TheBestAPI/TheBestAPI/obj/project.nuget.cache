@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YBeFgj4DGXZapYIWHDxqoZB72rXXCmxBNWHGVjFWppzIAt1k4wcFLHLrPc0ZRpmjYNnrmDbyq01xyLmTQbPGsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jokol\\source\\repos\\TheBestAPI\\TheBestAPI\\TheBestAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jokol\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\jokol\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\jokol\\.nuget\\packages\\nhentaisharp\\1.1.1\\nhentaisharp.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
