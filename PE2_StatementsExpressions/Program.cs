@@ -113,7 +113,7 @@ namespace PE2_StatementsExpressions
                         ChangeStat();
                         return;
                     }
-                    if (ChosenStat == "S")
+                    if (ChosenStat == "S" || ChosenStat == "s")
                     {
                         Str += StatChange;
                         Total -= StatChange;
@@ -121,7 +121,7 @@ namespace PE2_StatementsExpressions
                         ChangeStat();
                         return;
                     } 
-                    else if (ChosenStat == "D")
+                    else if (ChosenStat == "D" || ChosenStat == "d")
                     {
                         Dex += StatChange;
                         Total -= StatChange;
@@ -129,7 +129,7 @@ namespace PE2_StatementsExpressions
                         ChangeStat();
                         return;
                     } 
-                    else if (ChosenStat == "I")
+                    else if (ChosenStat == "I" || ChosenStat == "i")
                     {
                         Int += StatChange;
                         Total -= StatChange;
@@ -137,7 +137,7 @@ namespace PE2_StatementsExpressions
                         ChangeStat();
                         return;
                     } 
-                    else if (ChosenStat == "V")
+                    else if (ChosenStat == "V" || ChosenStat == "v")
                     {
                         Vit += StatChange;
                         Total -= StatChange;
@@ -145,7 +145,7 @@ namespace PE2_StatementsExpressions
                         ChangeStat();
                         return;
                     } 
-                    else if (ChosenStat == "L")
+                    else if (ChosenStat == "L" || ChosenStat == "l")
                     {
                         Luc += StatChange;
                         Total -= StatChange;
@@ -169,7 +169,7 @@ namespace PE2_StatementsExpressions
                         ChangeStat();
                         return;
                     }
-                    if (ChosenStat == "S")
+                    if (ChosenStat == "S" || ChosenStat == "s")
                     {
                         if (Str + StatChange < 0)
                         {
@@ -183,7 +183,7 @@ namespace PE2_StatementsExpressions
                         ChangeStat();
                         return;
                     } 
-                    else if (ChosenStat == "D")
+                    else if (ChosenStat == "D" || ChosenStat == "d")
                     {
                         if (Dex + StatChange < 0)
                         {
@@ -197,7 +197,7 @@ namespace PE2_StatementsExpressions
                         ChangeStat();
                         return;
                     }
-                    else if (ChosenStat == "I")
+                    else if (ChosenStat == "I" || ChosenStat == "i")
                     {
                         if (Int + StatChange < 0)
                         {
@@ -211,7 +211,7 @@ namespace PE2_StatementsExpressions
                         ChangeStat();
                         return;
                     }
-                    else if (ChosenStat == "V")
+                    else if (ChosenStat == "V" || ChosenStat == "v")
                     {
                         if (Vit + StatChange < 0)
                         {
@@ -225,7 +225,7 @@ namespace PE2_StatementsExpressions
                         ChangeStat();
                         return;
                     }
-                    else if (ChosenStat == "L")
+                    else if (ChosenStat == "L" || ChosenStat == "l")
                     {
                         if (Luc + StatChange < 0)
                         {
