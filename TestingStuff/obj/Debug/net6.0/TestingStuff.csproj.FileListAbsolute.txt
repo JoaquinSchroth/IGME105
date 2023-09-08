@@ -1,0 +1,15 @@
+Z:\IGMProfile\Desktop\IGME105\TestingStuff\bin\Debug\net6.0\TestingStuff.exe
+Z:\IGMProfile\Desktop\IGME105\TestingStuff\bin\Debug\net6.0\TestingStuff.deps.json
+Z:\IGMProfile\Desktop\IGME105\TestingStuff\bin\Debug\net6.0\TestingStuff.runtimeconfig.json
+Z:\IGMProfile\Desktop\IGME105\TestingStuff\bin\Debug\net6.0\TestingStuff.dll
+Z:\IGMProfile\Desktop\IGME105\TestingStuff\bin\Debug\net6.0\TestingStuff.pdb
+Z:\IGMProfile\Desktop\IGME105\TestingStuff\obj\Debug\net6.0\TestingStuff.csproj.AssemblyReference.cache
+Z:\IGMProfile\Desktop\IGME105\TestingStuff\obj\Debug\net6.0\TestingStuff.GeneratedMSBuildEditorConfig.editorconfig
+Z:\IGMProfile\Desktop\IGME105\TestingStuff\obj\Debug\net6.0\TestingStuff.AssemblyInfoInputs.cache
+Z:\IGMProfile\Desktop\IGME105\TestingStuff\obj\Debug\net6.0\TestingStuff.AssemblyInfo.cs
+Z:\IGMProfile\Desktop\IGME105\TestingStuff\obj\Debug\net6.0\TestingStuff.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Desktop\IGME105\TestingStuff\obj\Debug\net6.0\TestingStuff.dll
+Z:\IGMProfile\Desktop\IGME105\TestingStuff\obj\Debug\net6.0\refint\TestingStuff.dll
+Z:\IGMProfile\Desktop\IGME105\TestingStuff\obj\Debug\net6.0\TestingStuff.pdb
+Z:\IGMProfile\Desktop\IGME105\TestingStuff\obj\Debug\net6.0\TestingStuff.genruntimeconfig.cache
+Z:\IGMProfile\Desktop\IGME105\TestingStuff\obj\Debug\net6.0\ref\TestingStuff.dll
