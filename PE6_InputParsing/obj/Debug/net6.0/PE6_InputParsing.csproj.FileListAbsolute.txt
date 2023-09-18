@@ -1,0 +1,15 @@
+Z:\IGMProfile\Desktop\IGME105\PE6_InputParsing\bin\Debug\net6.0\PE6_InputParsing.exe
+Z:\IGMProfile\Desktop\IGME105\PE6_InputParsing\bin\Debug\net6.0\PE6_InputParsing.deps.json
+Z:\IGMProfile\Desktop\IGME105\PE6_InputParsing\bin\Debug\net6.0\PE6_InputParsing.runtimeconfig.json
+Z:\IGMProfile\Desktop\IGME105\PE6_InputParsing\bin\Debug\net6.0\PE6_InputParsing.dll
+Z:\IGMProfile\Desktop\IGME105\PE6_InputParsing\bin\Debug\net6.0\PE6_InputParsing.pdb
+Z:\IGMProfile\Desktop\IGME105\PE6_InputParsing\obj\Debug\net6.0\PE6_InputParsing.csproj.AssemblyReference.cache
+Z:\IGMProfile\Desktop\IGME105\PE6_InputParsing\obj\Debug\net6.0\PE6_InputParsing.GeneratedMSBuildEditorConfig.editorconfig
+Z:\IGMProfile\Desktop\IGME105\PE6_InputParsing\obj\Debug\net6.0\PE6_InputParsing.AssemblyInfoInputs.cache
+Z:\IGMProfile\Desktop\IGME105\PE6_InputParsing\obj\Debug\net6.0\PE6_InputParsing.AssemblyInfo.cs
+Z:\IGMProfile\Desktop\IGME105\PE6_InputParsing\obj\Debug\net6.0\PE6_InputParsing.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Desktop\IGME105\PE6_InputParsing\obj\Debug\net6.0\PE6_InputParsing.dll
+Z:\IGMProfile\Desktop\IGME105\PE6_InputParsing\obj\Debug\net6.0\refint\PE6_InputParsing.dll
+Z:\IGMProfile\Desktop\IGME105\PE6_InputParsing\obj\Debug\net6.0\PE6_InputParsing.pdb
+Z:\IGMProfile\Desktop\IGME105\PE6_InputParsing\obj\Debug\net6.0\PE6_InputParsing.genruntimeconfig.cache
+Z:\IGMProfile\Desktop\IGME105\PE6_InputParsing\obj\Debug\net6.0\ref\PE6_InputParsing.dll

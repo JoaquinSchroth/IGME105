@@ -13,3 +13,17 @@ Z:\IGMProfile\Desktop\IGME105\PE4_MathMethod\obj\Debug\net6.0\refint\PE4_MathMet
 Z:\IGMProfile\Desktop\IGME105\PE4_MathMethod\obj\Debug\net6.0\PE4_MathMethod.pdb
 Z:\IGMProfile\Desktop\IGME105\PE4_MathMethod\obj\Debug\net6.0\PE4_MathMethod.genruntimeconfig.cache
 Z:\IGMProfile\Desktop\IGME105\PE4_MathMethod\obj\Debug\net6.0\ref\PE4_MathMethod.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE4_MathMethod\bin\Debug\net6.0\PE4_MathMethod.exe
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE4_MathMethod\bin\Debug\net6.0\PE4_MathMethod.deps.json
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE4_MathMethod\bin\Debug\net6.0\PE4_MathMethod.runtimeconfig.json
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE4_MathMethod\bin\Debug\net6.0\PE4_MathMethod.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE4_MathMethod\bin\Debug\net6.0\PE4_MathMethod.pdb
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE4_MathMethod\obj\Debug\net6.0\PE4_MathMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE4_MathMethod\obj\Debug\net6.0\PE4_MathMethod.AssemblyInfoInputs.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE4_MathMethod\obj\Debug\net6.0\PE4_MathMethod.AssemblyInfo.cs
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE4_MathMethod\obj\Debug\net6.0\PE4_MathMethod.csproj.CoreCompileInputs.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE4_MathMethod\obj\Debug\net6.0\PE4_MathMethod.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE4_MathMethod\obj\Debug\net6.0\refint\PE4_MathMethod.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE4_MathMethod\obj\Debug\net6.0\PE4_MathMethod.pdb
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE4_MathMethod\obj\Debug\net6.0\PE4_MathMethod.genruntimeconfig.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE4_MathMethod\obj\Debug\net6.0\ref\PE4_MathMethod.dll
