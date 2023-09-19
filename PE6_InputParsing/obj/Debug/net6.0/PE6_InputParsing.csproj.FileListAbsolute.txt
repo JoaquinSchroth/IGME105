@@ -13,3 +13,17 @@ Z:\IGMProfile\Desktop\IGME105\PE6_InputParsing\obj\Debug\net6.0\refint\PE6_Input
 Z:\IGMProfile\Desktop\IGME105\PE6_InputParsing\obj\Debug\net6.0\PE6_InputParsing.pdb
 Z:\IGMProfile\Desktop\IGME105\PE6_InputParsing\obj\Debug\net6.0\PE6_InputParsing.genruntimeconfig.cache
 Z:\IGMProfile\Desktop\IGME105\PE6_InputParsing\obj\Debug\net6.0\ref\PE6_InputParsing.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE6_InputParsing\obj\Debug\net6.0\PE6_InputParsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE6_InputParsing\obj\Debug\net6.0\PE6_InputParsing.AssemblyInfoInputs.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE6_InputParsing\obj\Debug\net6.0\PE6_InputParsing.AssemblyInfo.cs
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE6_InputParsing\obj\Debug\net6.0\PE6_InputParsing.csproj.CoreCompileInputs.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE6_InputParsing\obj\Debug\net6.0\PE6_InputParsing.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE6_InputParsing\obj\Debug\net6.0\refint\PE6_InputParsing.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE6_InputParsing\obj\Debug\net6.0\PE6_InputParsing.pdb
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE6_InputParsing\bin\Debug\net6.0\PE6_InputParsing.exe
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE6_InputParsing\bin\Debug\net6.0\PE6_InputParsing.deps.json
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE6_InputParsing\bin\Debug\net6.0\PE6_InputParsing.runtimeconfig.json
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE6_InputParsing\bin\Debug\net6.0\PE6_InputParsing.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE6_InputParsing\bin\Debug\net6.0\PE6_InputParsing.pdb
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE6_InputParsing\obj\Debug\net6.0\PE6_InputParsing.genruntimeconfig.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE6_InputParsing\obj\Debug\net6.0\ref\PE6_InputParsing.dll

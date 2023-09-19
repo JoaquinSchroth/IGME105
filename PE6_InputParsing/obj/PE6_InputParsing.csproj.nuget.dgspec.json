@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\IGMProfile\\Desktop\\IGME105\\PE6_InputParsing\\PE6_InputParsing.csproj": {}
+    "C:\\Users\\jokol\\OneDrive\\Desktop\\RIT\\IGME105\\PE6_InputParsing\\PE6_InputParsing.csproj": {}
   },
   "projects": {
-    "Z:\\IGMProfile\\Desktop\\IGME105\\PE6_InputParsing\\PE6_InputParsing.csproj": {
+    "C:\\Users\\jokol\\OneDrive\\Desktop\\RIT\\IGME105\\PE6_InputParsing\\PE6_InputParsing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\IGMProfile\\Desktop\\IGME105\\PE6_InputParsing\\PE6_InputParsing.csproj",
+        "projectUniqueName": "C:\\Users\\jokol\\OneDrive\\Desktop\\RIT\\IGME105\\PE6_InputParsing\\PE6_InputParsing.csproj",
         "projectName": "PE6_InputParsing",
-        "projectPath": "Z:\\IGMProfile\\Desktop\\IGME105\\PE6_InputParsing\\PE6_InputParsing.csproj",
-        "packagesPath": "D:\\Profiles\\js2420\\.nuget\\packages\\",
-        "outputPath": "Z:\\IGMProfile\\Desktop\\IGME105\\PE6_InputParsing\\obj\\",
+        "projectPath": "C:\\Users\\jokol\\OneDrive\\Desktop\\RIT\\IGME105\\PE6_InputParsing\\PE6_InputParsing.csproj",
+        "packagesPath": "C:\\Users\\jokol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jokol\\OneDrive\\Desktop\\RIT\\IGME105\\PE6_InputParsing\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "Z:\\IGMProfile\\AppData\\NuGet\\NuGet.Config",
+          "C:\\Users\\jokol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
