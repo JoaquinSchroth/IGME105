@@ -1,0 +1,14 @@
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE9_IfStatements\bin\Debug\net6.0\PE9_IfStatements.exe
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE9_IfStatements\bin\Debug\net6.0\PE9_IfStatements.deps.json
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE9_IfStatements\bin\Debug\net6.0\PE9_IfStatements.runtimeconfig.json
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE9_IfStatements\bin\Debug\net6.0\PE9_IfStatements.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE9_IfStatements\bin\Debug\net6.0\PE9_IfStatements.pdb
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE9_IfStatements\obj\Debug\net6.0\PE9_IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE9_IfStatements\obj\Debug\net6.0\PE9_IfStatements.AssemblyInfoInputs.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE9_IfStatements\obj\Debug\net6.0\PE9_IfStatements.AssemblyInfo.cs
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE9_IfStatements\obj\Debug\net6.0\PE9_IfStatements.csproj.CoreCompileInputs.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE9_IfStatements\obj\Debug\net6.0\PE9_IfStatements.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE9_IfStatements\obj\Debug\net6.0\refint\PE9_IfStatements.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE9_IfStatements\obj\Debug\net6.0\PE9_IfStatements.pdb
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE9_IfStatements\obj\Debug\net6.0\PE9_IfStatements.genruntimeconfig.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE9_IfStatements\obj\Debug\net6.0\ref\PE9_IfStatements.dll
