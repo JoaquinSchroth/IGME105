@@ -1,0 +1,14 @@
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\SchrothJ_HW2\bin\Debug\net6.0\SchrothJ_HW2.exe
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\SchrothJ_HW2\bin\Debug\net6.0\SchrothJ_HW2.deps.json
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\SchrothJ_HW2\bin\Debug\net6.0\SchrothJ_HW2.runtimeconfig.json
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\SchrothJ_HW2\bin\Debug\net6.0\SchrothJ_HW2.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\SchrothJ_HW2\bin\Debug\net6.0\SchrothJ_HW2.pdb
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\SchrothJ_HW2\obj\Debug\net6.0\SchrothJ_HW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\SchrothJ_HW2\obj\Debug\net6.0\SchrothJ_HW2.AssemblyInfoInputs.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\SchrothJ_HW2\obj\Debug\net6.0\SchrothJ_HW2.AssemblyInfo.cs
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\SchrothJ_HW2\obj\Debug\net6.0\SchrothJ_HW2.csproj.CoreCompileInputs.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\SchrothJ_HW2\obj\Debug\net6.0\SchrothJ_HW2.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\SchrothJ_HW2\obj\Debug\net6.0\refint\SchrothJ_HW2.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\SchrothJ_HW2\obj\Debug\net6.0\SchrothJ_HW2.pdb
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\SchrothJ_HW2\obj\Debug\net6.0\SchrothJ_HW2.genruntimeconfig.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\SchrothJ_HW2\obj\Debug\net6.0\ref\SchrothJ_HW2.dll
