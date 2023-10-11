@@ -1,0 +1,14 @@
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE14_ForLoops\bin\Debug\net6.0\PE14_ForLoops.exe
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE14_ForLoops\bin\Debug\net6.0\PE14_ForLoops.deps.json
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE14_ForLoops\bin\Debug\net6.0\PE14_ForLoops.runtimeconfig.json
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE14_ForLoops\bin\Debug\net6.0\PE14_ForLoops.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE14_ForLoops\bin\Debug\net6.0\PE14_ForLoops.pdb
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE14_ForLoops\obj\Debug\net6.0\PE14_ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE14_ForLoops\obj\Debug\net6.0\PE14_ForLoops.AssemblyInfoInputs.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE14_ForLoops\obj\Debug\net6.0\PE14_ForLoops.AssemblyInfo.cs
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE14_ForLoops\obj\Debug\net6.0\PE14_ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE14_ForLoops\obj\Debug\net6.0\PE14_ForLoops.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE14_ForLoops\obj\Debug\net6.0\refint\PE14_ForLoops.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE14_ForLoops\obj\Debug\net6.0\PE14_ForLoops.pdb
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE14_ForLoops\obj\Debug\net6.0\PE14_ForLoops.genruntimeconfig.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE14_ForLoops\obj\Debug\net6.0\ref\PE14_ForLoops.dll
