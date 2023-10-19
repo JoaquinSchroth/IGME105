@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A0p+qmSdLYGXjB3tNGN+Gp21MkrnFcOirAGQkCT1lArH4/GarUssdgColfkoRZbQX8qJGnRLwpfgKuzxx0srzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jokol\\OneDrive\\Desktop\\RIT\\IGME105\\SchrothJ_HW3\\SchrothJ_HW3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jokol\\.nuget\\packages\\system.speech\\8.0.0-rc.2.23479.6\\system.speech.8.0.0-rc.2.23479.6.nupkg.sha512"
+  ],
+  "logs": []
+}
