@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ozRdsbyRolXy1N8MGJfCZn8QjTAYJRGMJc4o03uiW6rrebmD6R8eZVdHJFviGBpig9KaletqaFfD4FzSay5dSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jokol\\OneDrive\\Desktop\\RIT\\IGME105\\TierList_Testing\\TierList_Testing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jokol\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0-rc.2.23479.6\\microsoft.win32.systemevents.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\jokol\\.nuget\\packages\\system.drawing.common\\8.0.0-rc.2.23479.14\\system.drawing.common.8.0.0-rc.2.23479.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SchrothJ_HW3/1.0.0": {
+        "dependencies": {
+          "System.Speech": "8.0.0-rc.2.23479.6"
+        },
+        "runtime": {
+          "SchrothJ_HW3.dll": {}
+        }
+      },
+      "System.Speech/8.0.0-rc.2.23479.6": {
+        "runtime": {
+          "lib/net6.0/System.Speech.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.47906"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Speech.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.47906"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SchrothJ_HW3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Speech/8.0.0-rc.2.23479.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vWd/mmQQo2vXp5aDjwi/bj9DO4MABNMZtYpRhzYBFDzvDln68eZBgW+rYMT81egXmNcnt87+6+GbpZ8GW2VJ6w==",
+      "path": "system.speech/8.0.0-rc.2.23479.6",
+      "hashPath": "system.speech.8.0.0-rc.2.23479.6.nupkg.sha512"
+    }
+  }
+}
