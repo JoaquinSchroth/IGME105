@@ -1,0 +1,14 @@
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE19_NumberGuessingGame\bin\Debug\net6.0\PE19_NumberGuessingGame.exe
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE19_NumberGuessingGame\bin\Debug\net6.0\PE19_NumberGuessingGame.deps.json
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE19_NumberGuessingGame\bin\Debug\net6.0\PE19_NumberGuessingGame.runtimeconfig.json
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE19_NumberGuessingGame\bin\Debug\net6.0\PE19_NumberGuessingGame.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE19_NumberGuessingGame\bin\Debug\net6.0\PE19_NumberGuessingGame.pdb
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE19_NumberGuessingGame\obj\Debug\net6.0\PE19_NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE19_NumberGuessingGame\obj\Debug\net6.0\PE19_NumberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE19_NumberGuessingGame\obj\Debug\net6.0\PE19_NumberGuessingGame.AssemblyInfo.cs
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE19_NumberGuessingGame\obj\Debug\net6.0\PE19_NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE19_NumberGuessingGame\obj\Debug\net6.0\PE19_NumberGuessingGame.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE19_NumberGuessingGame\obj\Debug\net6.0\refint\PE19_NumberGuessingGame.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE19_NumberGuessingGame\obj\Debug\net6.0\PE19_NumberGuessingGame.pdb
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE19_NumberGuessingGame\obj\Debug\net6.0\PE19_NumberGuessingGame.genruntimeconfig.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE19_NumberGuessingGame\obj\Debug\net6.0\ref\PE19_NumberGuessingGame.dll

@@ -12,7 +12,7 @@ namespace TierList_Testing
     static void Main(string[] args)
     {
         string inputFilePath = "C:\\Users\\jokol\\OneDrive\\Desktop\\testeandowebadas\\input.txt"; // Change this to your input file path
-        string outputDirectory = "C:\\Users\\jokol\\OneDrive\\Desktop\\testeandowebadas"; // Change this to your output directory
+        string outputDirectory = "C:\\Users\\jokol\\OneDrive\\Desktop\\testeandowebadas\\Tags"; // Change this to your output directory
 
         if (!Directory.Exists(outputDirectory))
             Directory.CreateDirectory(outputDirectory);

@@ -1,0 +1,44 @@
+D:\Erin\Desktop\IGME105\Methods_STARTER\bin\Debug\net6.0\Methods_STARTER.exe
+D:\Erin\Desktop\IGME105\Methods_STARTER\bin\Debug\net6.0\Methods_STARTER.deps.json
+D:\Erin\Desktop\IGME105\Methods_STARTER\bin\Debug\net6.0\Methods_STARTER.runtimeconfig.json
+D:\Erin\Desktop\IGME105\Methods_STARTER\bin\Debug\net6.0\Methods_STARTER.dll
+D:\Erin\Desktop\IGME105\Methods_STARTER\bin\Debug\net6.0\Methods_STARTER.pdb
+D:\Erin\Desktop\IGME105\Methods_STARTER\obj\Debug\net6.0\Methods_STARTER.csproj.AssemblyReference.cache
+D:\Erin\Desktop\IGME105\Methods_STARTER\obj\Debug\net6.0\Methods_STARTER.GeneratedMSBuildEditorConfig.editorconfig
+D:\Erin\Desktop\IGME105\Methods_STARTER\obj\Debug\net6.0\Methods_STARTER.AssemblyInfoInputs.cache
+D:\Erin\Desktop\IGME105\Methods_STARTER\obj\Debug\net6.0\Methods_STARTER.AssemblyInfo.cs
+D:\Erin\Desktop\IGME105\Methods_STARTER\obj\Debug\net6.0\Methods_STARTER.csproj.CoreCompileInputs.cache
+D:\Erin\Desktop\IGME105\Methods_STARTER\obj\Debug\net6.0\Methods_STARTER.dll
+D:\Erin\Desktop\IGME105\Methods_STARTER\obj\Debug\net6.0\refint\Methods_STARTER.dll
+D:\Erin\Desktop\IGME105\Methods_STARTER\obj\Debug\net6.0\Methods_STARTER.pdb
+D:\Erin\Desktop\IGME105\Methods_STARTER\obj\Debug\net6.0\Methods_STARTER.genruntimeconfig.cache
+D:\Erin\Desktop\IGME105\Methods_STARTER\obj\Debug\net6.0\ref\Methods_STARTER.dll
+C:\Users\edcigm\Dropbox\105 Regular - Fall 2023\Lectures\Week 8 - Static methods, Arrays\Day 1 - Static Methods\Methods_STARTER\obj\Debug\net6.0\Methods_STARTER.csproj.AssemblyReference.cache
+C:\Users\edcigm\Dropbox\105 Regular - Fall 2023\Lectures\Week 8 - Static methods, Arrays\Day 1 - Static Methods\Methods_STARTER\obj\Debug\net6.0\Methods_STARTER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edcigm\Dropbox\105 Regular - Fall 2023\Lectures\Week 8 - Static methods, Arrays\Day 1 - Static Methods\Methods_STARTER\obj\Debug\net6.0\Methods_STARTER.AssemblyInfoInputs.cache
+C:\Users\edcigm\Dropbox\105 Regular - Fall 2023\Lectures\Week 8 - Static methods, Arrays\Day 1 - Static Methods\Methods_STARTER\obj\Debug\net6.0\Methods_STARTER.AssemblyInfo.cs
+C:\Users\edcigm\Dropbox\105 Regular - Fall 2023\Lectures\Week 8 - Static methods, Arrays\Day 1 - Static Methods\Methods_STARTER\obj\Debug\net6.0\Methods_STARTER.csproj.CoreCompileInputs.cache
+C:\Users\edcigm\Dropbox\105 Regular - Fall 2023\Lectures\Week 8 - Static methods, Arrays\Day 1 - Static Methods\Methods_STARTER\obj\Debug\net6.0\Methods_STARTER.dll
+C:\Users\edcigm\Dropbox\105 Regular - Fall 2023\Lectures\Week 8 - Static methods, Arrays\Day 1 - Static Methods\Methods_STARTER\obj\Debug\net6.0\refint\Methods_STARTER.dll
+C:\Users\edcigm\Dropbox\105 Regular - Fall 2023\Lectures\Week 8 - Static methods, Arrays\Day 1 - Static Methods\Methods_STARTER\obj\Debug\net6.0\Methods_STARTER.pdb
+C:\Users\edcigm\Dropbox\105 Regular - Fall 2023\Lectures\Week 8 - Static methods, Arrays\Day 1 - Static Methods\Methods_STARTER\bin\Debug\net6.0\Methods_STARTER.exe
+C:\Users\edcigm\Dropbox\105 Regular - Fall 2023\Lectures\Week 8 - Static methods, Arrays\Day 1 - Static Methods\Methods_STARTER\bin\Debug\net6.0\Methods_STARTER.deps.json
+C:\Users\edcigm\Dropbox\105 Regular - Fall 2023\Lectures\Week 8 - Static methods, Arrays\Day 1 - Static Methods\Methods_STARTER\bin\Debug\net6.0\Methods_STARTER.runtimeconfig.json
+C:\Users\edcigm\Dropbox\105 Regular - Fall 2023\Lectures\Week 8 - Static methods, Arrays\Day 1 - Static Methods\Methods_STARTER\bin\Debug\net6.0\Methods_STARTER.dll
+C:\Users\edcigm\Dropbox\105 Regular - Fall 2023\Lectures\Week 8 - Static methods, Arrays\Day 1 - Static Methods\Methods_STARTER\bin\Debug\net6.0\Methods_STARTER.pdb
+C:\Users\edcigm\Dropbox\105 Regular - Fall 2023\Lectures\Week 8 - Static methods, Arrays\Day 1 - Static Methods\Methods_STARTER\obj\Debug\net6.0\Methods_STARTER.genruntimeconfig.cache
+C:\Users\edcigm\Dropbox\105 Regular - Fall 2023\Lectures\Week 8 - Static methods, Arrays\Day 1 - Static Methods\Methods_STARTER\obj\Debug\net6.0\ref\Methods_STARTER.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE16_StaticMethods\Methods_STARTER\bin\Debug\net6.0\Methods_STARTER.exe
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE16_StaticMethods\Methods_STARTER\bin\Debug\net6.0\Methods_STARTER.deps.json
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE16_StaticMethods\Methods_STARTER\bin\Debug\net6.0\Methods_STARTER.runtimeconfig.json
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE16_StaticMethods\Methods_STARTER\bin\Debug\net6.0\Methods_STARTER.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE16_StaticMethods\Methods_STARTER\bin\Debug\net6.0\Methods_STARTER.pdb
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE16_StaticMethods\Methods_STARTER\obj\Debug\net6.0\Methods_STARTER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE16_StaticMethods\Methods_STARTER\obj\Debug\net6.0\Methods_STARTER.AssemblyInfoInputs.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE16_StaticMethods\Methods_STARTER\obj\Debug\net6.0\Methods_STARTER.AssemblyInfo.cs
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE16_StaticMethods\Methods_STARTER\obj\Debug\net6.0\Methods_STARTER.csproj.CoreCompileInputs.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE16_StaticMethods\Methods_STARTER\obj\Debug\net6.0\Methods_STARTER.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE16_StaticMethods\Methods_STARTER\obj\Debug\net6.0\refint\Methods_STARTER.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE16_StaticMethods\Methods_STARTER\obj\Debug\net6.0\Methods_STARTER.pdb
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE16_StaticMethods\Methods_STARTER\obj\Debug\net6.0\Methods_STARTER.genruntimeconfig.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE16_StaticMethods\Methods_STARTER\obj\Debug\net6.0\ref\Methods_STARTER.dll
