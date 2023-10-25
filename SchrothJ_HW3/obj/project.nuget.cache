@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "A0p+qmSdLYGXjB3tNGN+Gp21MkrnFcOirAGQkCT1lArH4/GarUssdgColfkoRZbQX8qJGnRLwpfgKuzxx0srzg==",
+  "dgSpecHash": "/lbfXqF1e95e4arqdno+6Zhmq6Vx40waVilw36zg66oAlU8HP9q+BnJTHN+c6LXw/P0VvWtDsaz4z8n1cSpNFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jokol\\OneDrive\\Desktop\\RIT\\IGME105\\SchrothJ_HW3\\SchrothJ_HW3.csproj",
+  "projectFilePath": "Z:\\IGMProfile\\Desktop\\105-personal-repo-JoaquinSchroth\\Homework\\SchrothJ_HW3\\SchrothJ_HW3.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jokol\\.nuget\\packages\\system.speech\\8.0.0-rc.2.23479.6\\system.speech.8.0.0-rc.2.23479.6.nupkg.sha512"
+    "D:\\Profiles\\js2420\\.nuget\\packages\\system.speech\\8.0.0-rc.2.23479.6\\system.speech.8.0.0-rc.2.23479.6.nupkg.sha512"
   ],
   "logs": []
 }
