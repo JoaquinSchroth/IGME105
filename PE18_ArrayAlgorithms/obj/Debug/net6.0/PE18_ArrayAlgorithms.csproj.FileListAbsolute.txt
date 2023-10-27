@@ -1,0 +1,14 @@
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE18_ArrayAlgorithms\obj\Debug\net6.0\PE18_ArrayAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE18_ArrayAlgorithms\obj\Debug\net6.0\PE18_ArrayAlgorithms.AssemblyInfoInputs.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE18_ArrayAlgorithms\obj\Debug\net6.0\PE18_ArrayAlgorithms.AssemblyInfo.cs
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE18_ArrayAlgorithms\obj\Debug\net6.0\PE18_ArrayAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE18_ArrayAlgorithms\bin\Debug\net6.0\PE18_ArrayAlgorithms.exe
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE18_ArrayAlgorithms\bin\Debug\net6.0\PE18_ArrayAlgorithms.deps.json
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE18_ArrayAlgorithms\bin\Debug\net6.0\PE18_ArrayAlgorithms.runtimeconfig.json
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE18_ArrayAlgorithms\bin\Debug\net6.0\PE18_ArrayAlgorithms.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE18_ArrayAlgorithms\bin\Debug\net6.0\PE18_ArrayAlgorithms.pdb
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE18_ArrayAlgorithms\obj\Debug\net6.0\PE18_ArrayAlgorithms.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE18_ArrayAlgorithms\obj\Debug\net6.0\refint\PE18_ArrayAlgorithms.dll
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE18_ArrayAlgorithms\obj\Debug\net6.0\PE18_ArrayAlgorithms.pdb
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE18_ArrayAlgorithms\obj\Debug\net6.0\PE18_ArrayAlgorithms.genruntimeconfig.cache
+C:\Users\jokol\OneDrive\Desktop\RIT\IGME105\PE18_ArrayAlgorithms\obj\Debug\net6.0\ref\PE18_ArrayAlgorithms.dll
