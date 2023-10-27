@@ -1,0 +1,15 @@
+Z:\IGMProfile\Desktop\105-personal-repo-JoaquinSchroth\Demos\PE17_Arrays\bin\Debug\net6.0\PE17_Arrays.exe
+Z:\IGMProfile\Desktop\105-personal-repo-JoaquinSchroth\Demos\PE17_Arrays\bin\Debug\net6.0\PE17_Arrays.deps.json
+Z:\IGMProfile\Desktop\105-personal-repo-JoaquinSchroth\Demos\PE17_Arrays\bin\Debug\net6.0\PE17_Arrays.runtimeconfig.json
+Z:\IGMProfile\Desktop\105-personal-repo-JoaquinSchroth\Demos\PE17_Arrays\bin\Debug\net6.0\PE17_Arrays.dll
+Z:\IGMProfile\Desktop\105-personal-repo-JoaquinSchroth\Demos\PE17_Arrays\bin\Debug\net6.0\PE17_Arrays.pdb
+Z:\IGMProfile\Desktop\105-personal-repo-JoaquinSchroth\Demos\PE17_Arrays\obj\Debug\net6.0\PE17_Arrays.csproj.AssemblyReference.cache
+Z:\IGMProfile\Desktop\105-personal-repo-JoaquinSchroth\Demos\PE17_Arrays\obj\Debug\net6.0\PE17_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+Z:\IGMProfile\Desktop\105-personal-repo-JoaquinSchroth\Demos\PE17_Arrays\obj\Debug\net6.0\PE17_Arrays.AssemblyInfoInputs.cache
+Z:\IGMProfile\Desktop\105-personal-repo-JoaquinSchroth\Demos\PE17_Arrays\obj\Debug\net6.0\PE17_Arrays.AssemblyInfo.cs
+Z:\IGMProfile\Desktop\105-personal-repo-JoaquinSchroth\Demos\PE17_Arrays\obj\Debug\net6.0\PE17_Arrays.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Desktop\105-personal-repo-JoaquinSchroth\Demos\PE17_Arrays\obj\Debug\net6.0\PE17_Arrays.dll
+Z:\IGMProfile\Desktop\105-personal-repo-JoaquinSchroth\Demos\PE17_Arrays\obj\Debug\net6.0\refint\PE17_Arrays.dll
+Z:\IGMProfile\Desktop\105-personal-repo-JoaquinSchroth\Demos\PE17_Arrays\obj\Debug\net6.0\PE17_Arrays.pdb
+Z:\IGMProfile\Desktop\105-personal-repo-JoaquinSchroth\Demos\PE17_Arrays\obj\Debug\net6.0\PE17_Arrays.genruntimeconfig.cache
+Z:\IGMProfile\Desktop\105-personal-repo-JoaquinSchroth\Demos\PE17_Arrays\obj\Debug\net6.0\ref\PE17_Arrays.dll
