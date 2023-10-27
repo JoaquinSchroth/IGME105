@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\IGMProfile\\Desktop\\105-personal-repo-JoaquinSchroth\\Demos\\PE17_Arrays\\PE17_Arrays.csproj": {}
+    "Z:\\IGMProfile\\Desktop\\105-personal-repo-JoaquinSchroth\\PEs\\PE17_Arrays\\PE17_Arrays.csproj": {}
   },
   "projects": {
-    "Z:\\IGMProfile\\Desktop\\105-personal-repo-JoaquinSchroth\\Demos\\PE17_Arrays\\PE17_Arrays.csproj": {
+    "Z:\\IGMProfile\\Desktop\\105-personal-repo-JoaquinSchroth\\PEs\\PE17_Arrays\\PE17_Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\IGMProfile\\Desktop\\105-personal-repo-JoaquinSchroth\\Demos\\PE17_Arrays\\PE17_Arrays.csproj",
+        "projectUniqueName": "Z:\\IGMProfile\\Desktop\\105-personal-repo-JoaquinSchroth\\PEs\\PE17_Arrays\\PE17_Arrays.csproj",
         "projectName": "PE17_Arrays",
-        "projectPath": "Z:\\IGMProfile\\Desktop\\105-personal-repo-JoaquinSchroth\\Demos\\PE17_Arrays\\PE17_Arrays.csproj",
+        "projectPath": "Z:\\IGMProfile\\Desktop\\105-personal-repo-JoaquinSchroth\\PEs\\PE17_Arrays\\PE17_Arrays.csproj",
         "packagesPath": "D:\\Profiles\\js2420\\.nuget\\packages\\",
-        "outputPath": "Z:\\IGMProfile\\Desktop\\105-personal-repo-JoaquinSchroth\\Demos\\PE17_Arrays\\obj\\",
+        "outputPath": "Z:\\IGMProfile\\Desktop\\105-personal-repo-JoaquinSchroth\\PEs\\PE17_Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "Z:\\IGMProfile\\AppData\\NuGet\\NuGet.Config",
