@@ -1,6 +1,6 @@
 ﻿//Joaquin Schroth
 //10/20/2023
-//
+//work
 
 namespace PE17_Arrays
 {
@@ -16,20 +16,19 @@ namespace PE17_Arrays
             //--- Console Output ---\\
             Console.Write("Welcome to the character name collector!\n" +
                           "How many characters are you entering today? ");
-            numOfNames = int.Parse(Console.ReadLine());
-            names = new string[numOfNames];
+            numOfNames = int.Parse(Console.ReadLine());//gets number of names int
+            names = new string[numOfNames];//makes an array with a specific size
 
             for (int x = 0; x < numOfNames; x++)
-            {
+            {//asks for the input of names the same amount of time as array size
                 Console.Write($"Name #{x+1}: ");
                 names[x] = Console.ReadLine();
             }
             Console.WriteLine("All names have been entered.");
-
             
             while (true)
-            {
-                Console.Write(
+            {//repeats until QUIT is chosen
+                Console.Write(//prints out options
                 "\nChoose from one of the following\n" +
                 "choices:" +
                 "\t\n- PRINT all names" +
@@ -39,42 +38,44 @@ namespace PE17_Arrays
                 "\nYour choice: ");
 
                 switch (userChoice = Console.ReadLine().ToUpper())
-                {
-                    case "PRINT":
+                {//asks for input and formats it a little for use
+                    case "PRINT"://when they choose print
                         Console.WriteLine("\nYou chose PRINT!!!");
-                        Print(names);
+                        Print(names);//prints names inside array
                         break;
 
-                    case "SEARCH":
+                    case "SEARCH"://when they choose search
                         Console.WriteLine("\nYou chose SEARCH!!!");
                         Console.Write("Name to search for: ");
-                        userChoice = Console.ReadLine();
-                        if (Search(names, userChoice))
+                        userChoice = Console.ReadLine();//name to search for
+                        if (Search(names, userChoice))//searches for the name
                             Console.WriteLine($"Yes, {userChoice} is in the array.");
                         else Console.WriteLine($"No, {userChoice} is not in the array.");
                         break;
 
-                    case "HOW MANY":
+                    case "HOW MANY"://when they choose how many
                         Console.WriteLine("\nYou chose HOW MANY!!!");
+                        //prints out how many names start with B
                         Console.WriteLine($"{StartsWithB(names)} names start with 'B'");
                         break;
 
-                    case "QUIT":
-                        Console.WriteLine("Goodbye!");
+                    case "QUIT"://when they choose quit
+                        Console.WriteLine("Goodbye!");//says goodbye
                         Console.ReadLine();
-                        return;
+                        return;//ends the program
                 }
             }
-            Console.ReadLine();
         }//end of main
 
+        //prints all items in a specified array
         public static void Print(string[] names)
-        {
-            foreach (string name in names) Console.WriteLine(name);
+        {//goes through every item in the array and prints it
+            foreach (string name in names)
+                Console.WriteLine(name);
         }
 
         public static bool Search(string[] names, string name)
-        {
+        {//if any of iterated items in the array equals the given name returns true
             foreach (string str in names)
                 if (str == name) 
                     return true;
@@ -83,11 +84,12 @@ namespace PE17_Arrays
 
         public static int StartsWithB(string[] names)
         {
-            int countB = 0;
+            int countB = 0;//numbe of Bs
+            //iterates through every item and adds 1 if theres a B
             foreach (string name in names)
                 if (name.Substring(0, 1).Contains("B"))
                     countB++;
-            return countB;
+            return countB;//returns the number of Bs
         }
     }
 }
